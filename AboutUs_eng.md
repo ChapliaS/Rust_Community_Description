@@ -67,7 +67,7 @@ Please contact [me](https://t.me/wandalen_me) on Telegram if you wish to: help w
 ## Join
 Come join our friendly community!
 💬 Join our [Telegram-Chat](https://t.me/rustlang_ua) and [Telegram-Channel](https://t.me/learn_rust_ukr). 
-📖 Our collection of materials to master Rust are [here](https://github.com/Learn-Together-Pro/LearnRustTogether). 
+📖 Our collection of materials to master Rust are [here](https://github.com/Learn-Together-Pro/LearnRustTogether). <br/>
 
 You may also follow us on these platforms:
 [Twitter](https://twitter.com/LearnTogetherP)  | [Facebook](https://www.facebook.com/learntogetherpro) |
